@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="popular">Popular</string>
+    <string name="most_popular_movies">Most popular movies</string>
+    <string name="error_fetch_movies">Please check your internet connection</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="highest_rated_movies">Highest rated movies of all time</string>
+    <string name="trending_movies">Trending</string>
+    <string name="trending">Trending movies at the moment</string>
+    <string name="most_popular_tv_shows">Most popular TV shows</string>
+    <string name="highest_rated_tv_shows_of_all_time">Highest rated TV shows of all time</string>
+    <string name="on_air">On Air</string>
+    <string name="currently_airing_tv_shows">Currently airing TV shows</string>
+
+    <string name="Home">Movies</string>
+    <string name="Fav">Favourites</string>
+    <string name="Set">Settings</string>
+
+    <string name="add">Add to Favourites</string>
+    <string name="remove">Remove from Favourites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
