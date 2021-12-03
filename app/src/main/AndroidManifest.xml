@@ -12,6 +12,17 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Movies">
         <activity
+            android:name=".profileActivity"
+            android:exported="false"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/Theme.Movies.NoActionBar" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginActivity"
+            android:exported="false" />
+        <activity
             android:name=".MovieDetails"
             android:exported="false" />
         <activity

@@ -12,6 +12,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.movies.Adapter.MovieAdapter
 
 
+
+
 class MovieFragment : Fragment() {
     private lateinit var popularMovies: RecyclerView
     private lateinit var popularMoviesAdapter: MovieAdapter
